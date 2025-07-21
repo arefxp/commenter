@@ -1,0 +1,5 @@
+{
+  "name": "Comment Assistant",
+  "description": "An AI-powered application that analyzes a LinkedIn post and generates a human-like, valuable comment in various tones and lengths.",
+  "requestFramePermissions": []
+}
